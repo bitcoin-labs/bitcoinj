@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/59/trunk/tests/com/google/bitcoin/core
+END
+UtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/57/trunk/tests/com/google/bitcoin/core/UtilsTest.java
+END
+ECKeyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/54/trunk/tests/com/google/bitcoin/core/ECKeyTest.java
+END
+DiskBlockStoreTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/49/trunk/tests/com/google/bitcoin/core/DiskBlockStoreTest.java
+END
+VarIntTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/25/trunk/tests/com/google/bitcoin/core/VarIntTest.java
+END
+ScriptTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9/trunk/tests/com/google/bitcoin/core/ScriptTest.java
+END
+AddressTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9/trunk/tests/com/google/bitcoin/core/AddressTest.java
+END
+Base58Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9/trunk/tests/com/google/bitcoin/core/Base58Test.java
+END
+WalletTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/59/trunk/tests/com/google/bitcoin/core/WalletTest.java
+END
+BlockTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/49/trunk/tests/com/google/bitcoin/core/BlockTest.java
+END
+BlockChainTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/59/trunk/tests/com/google/bitcoin/core/BlockChainTest.java
+END

@@ -66,7 +66,8 @@ public class TransactionStandaloneEncoder {
             t_in = new Transaction(params);
 
             // index (via spacers)
-            for (int j = 0; j < in_indexes.get(i).intValue(); i++) {
+            int index = in_indexes.get(i).intValue();
+            for (int j = 0; j < index; j++) {
                 t_in.addOutput(new TransactionOutput(params, Utils.toNanoCoins(1, 0), whatever, t_in));
             }
 
